@@ -1,5 +1,4 @@
-### EX NO : 01
-### Date : 05/08/2023
+
 # <p align="center">Plot a time series data</p>
 ## AIM :
 Develop a python program to Plot a time series data (population/ market price of a commodity /temperature).
